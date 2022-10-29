@@ -3,8 +3,8 @@
 - Coder, Photographer & White Hat.
 
 ## Find me on the web
-
-- <a href="https://xxx.pages.dev"><img src="icons/page.svg" width="15"> Website</a><br>
+<!-- website: still not done -->
+- <a href="https://nitr7gen.pages.dev"><img src="icons/page.svg" width="15"> Website</a><br> 
 - <a href="https://github.com/nitr7gen"><img src="icons/gh.svg" width="15"> Github</a><br>
 - <a href="mailto:nitr7gen@proton.me"><img src="icons/mail.svg" width="15"> Email</a><br>
 - <a href="https://discord.com/users/1028674812954026054"><img src="icons/discord.svg" width="15"> Discord</a><br>
@@ -20,4 +20,4 @@
 ----
 
 <br>
-<p align="right"><b>Last Updated:</b> 14/10/2022, 16:15:33 GMT</p>
+<p align="right"><b>Last Updated:</b> 29/10/2022, 13:56:46 GMT</p>
